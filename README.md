@@ -46,6 +46,8 @@ SmashConnect is built to connect Malaysian badminton enthusiasts in a centralize
 
 
 ## Features
+![UseCase drawio](https://github.com/user-attachments/assets/04b47a11-3b36-43cc-ae70-d5ec6c9c436a)
+
 
 1. **User Authentication**
    - **Login**, **Logout**, and **Register** for secure access.
