@@ -2,14 +2,12 @@
 
 **SmashConnect** is a web application designed to unify and enhance the experience of the Malaysian badminton community. By providing a user-centered platform, it aims to address the fragmented nature of the community and promote social connections, physical activity, and community engagement aligned with **Sustainable Development Goal 3 (SDG 3)** for good health and well-being.
 
----
 
 ## Project Overview
 
 ### Abstract
 SmashConnect is built to connect Malaysian badminton enthusiasts in a centralized platform that fosters connectivity, social interaction, and health promotion. Through features such as user engagement, matchmaking, event management, and court/equipment locators, SmashConnect creates an interactive and supportive ecosystem for badminton players. By aligning with SDG 3, the platform encourages physical and social engagement, empowering users to thrive on and off the court.
 
----
 
 ## System Architecture
 ![SystemArchitecture](https://github.com/user-attachments/assets/ff64b3ef-e410-4e81-ac2e-de55f63ced7d)
@@ -46,7 +44,6 @@ SmashConnect is built to connect Malaysian badminton enthusiasts in a centralize
 ### Database
 - **MongoDB**: NoSQL database for flexible and scalable data storage.
 
----
 
 ## Features
 
@@ -77,4 +74,3 @@ SmashConnect is built to connect Malaysian badminton enthusiasts in a centralize
 9. **Centralized Dashboard & Notifications**
    - Access all features in a single dashboard with real-time notifications.
 
----
